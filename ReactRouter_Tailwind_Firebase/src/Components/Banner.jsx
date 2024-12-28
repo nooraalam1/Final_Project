@@ -19,6 +19,12 @@ const Banner = () => {
 
 
             </Carousel>
+            <div className="flex justify-center items-center">
+                <div className="my-4">
+                    <h2 className="text-yellow-400">---From 11.00AM To 10.00PM---</h2>
+                    <h2 className="text-center text-3xl border-t-4 border-b-4">Order Online</h2>
+                </div>
+            </div>
         </div >
     );
 };

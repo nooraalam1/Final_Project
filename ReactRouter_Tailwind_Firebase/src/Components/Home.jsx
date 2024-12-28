@@ -1,4 +1,5 @@
 import Banner from "./Banner";
+import Menu from "./Menu";
 import Swipper from "./Swipper";
 
 const Home = () => {
@@ -6,6 +7,7 @@ const Home = () => {
         <div>
             <Banner></Banner>
             <Swipper></Swipper>
+            <Menu></Menu>
 
         </div>
     );
